@@ -28,9 +28,9 @@ latest_posts:
 
 Lei Zhang is a Postdoctoral Fellow at the Rotman Research Institute, Baycrest, Canada. He received his PhD in Cognitive Neuroscience from the University of Chinese Academy of Sciences and completed part of his doctoral training at McGill University.
 
-His research investigates how prior knowledge and experience shape the neural mechanisms underlying perception and memory, with a particular focus on experience-dependent neuroplasticity and cognitive aging. His work spans auditory and multisensory perception, episodic memory, and cognitive reserve, including how lifelong musical training influences brain function in older adults. Combining behavioral experiments, multimodal neuroimaging (EEG, MEG, and fMRI), and computational approaches, he seeks to understand how experience modifies neural representations, how memory interacts with sensory processing, and how these mechanisms contribute to cognitive resilience across the lifespan.
+His research investigates how prior knowledge and experience shape the neural mechanisms underlying perception and memory, with a particular focus on experience-dependent neuroplasticity and cognitive aging. His work spans auditory and multisensory perception, episodic memory, and cognitive reserve, with studies examining how lifelong musical training influences auditory brain function in older adults. Combining behavioral experiments, multimodal neuroimaging (EEG, MEG, and fMRI), and computational approaches, he examines how experience shapes perceptual representations and cognitive processes, how sensory and memory systems interact, and how these mechanisms contribute to cognitive resilience across the lifespan.
 
-When he is not in the lab, he might be found on a climbing wall, making some noise with his violin, or trying to squeeze in time for sightseeing in both the real and fantasy worlds.
+When he is not in the lab, he might be found on a climbing wall, making some noise with his violin, taking photos, or trying to squeeze in time for sightseeing in both the real and fantasy worlds.
 
 <div class="social">
   <div class="contact-icons">
