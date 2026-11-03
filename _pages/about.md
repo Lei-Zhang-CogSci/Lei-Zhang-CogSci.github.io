@@ -6,7 +6,7 @@ subtitle: Postdoctoral Fellow | Rotman Research Institute, Baycrest | University
 
 profile:
   align: right
-  image: self_pic.jpg
+  image: self_pic2.jpg
   image_circular: false
   more_info: >
     <p>Toronto, Canada</p>
