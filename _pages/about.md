@@ -10,6 +10,7 @@ profile:
   image_circular: false
   more_info: >
     <p>Toronto, Canada</p>
+    <p>(Photo location: Iguaçu Falls, Brazil.)</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,8 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Lei Zhang is a Postdoctoral Fellow at the Rotman Research Institute, Baycrest, Canada. He received his PhD in Cognitive Neuroscience from the University of Chinese Academy of Sciences and completed part of his doctoral training at McGill University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+His research investigates how prior knowledge and experience shape the neural mechanisms underlying perception and memory, with a particular focus on experience-dependent neuroplasticity and cognitive aging. His work spans auditory and multisensory perception, episodic memory, and cognitive reserve, including how lifelong musical training influences brain function in older adults. Combining behavioral experiments, multimodal neuroimaging (EEG, MEG, and fMRI), and computational approaches, he seeks to understand how experience modifies neural representations, how memory interacts with sensory processing, and how these mechanisms contribute to cognitive resilience across the lifespan.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+When he is not in the lab, he might be found on a climbing wall, making some noise with his violin, or trying to squeeze in time for sightseeing in both the real and fantasy worlds.
+
