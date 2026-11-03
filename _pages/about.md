@@ -13,7 +13,7 @@ profile:
     <p>(Photo location: Iguaçu Falls, Brazil)</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -32,3 +32,8 @@ His research investigates how prior knowledge and experience shape the neural me
 
 When he is not in the lab, he might be found on a climbing wall, making some noise with his violin, or trying to squeeze in time for sightseeing in both the real and fantasy worlds.
 
+<div class="social">
+  <div class="contact-icons">
+    {% social_links %}
+  </div>
+</div>
