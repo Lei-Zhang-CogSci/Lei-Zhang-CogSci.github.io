@@ -9,8 +9,7 @@ profile:
   image: self_pic2.jpg
   image_circular: false
   more_info: >
-    <p>Toronto, Canada</p>
-    <p>(Photo location: Iguaçu Falls, Brazil)</p>
+    <p>Iguaçu Falls, Brazil</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
